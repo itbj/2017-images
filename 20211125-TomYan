@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-25T06:28:20.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="MaBTu3pBZaVOG6kBl1Jb" version="15.8.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-25T06:29:58.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="s6n70CiRBOHJNRozgswj" version="15.8.6" type="github" pages="2">
   <diagram id="e32_tFTXpkKCN1R5wqYX" name="第 1 页">
     <mxGraphModel dx="865" dy="463" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -953,6 +953,12 @@
         </mxCell>
         <mxCell id="HUjePcvK3pCiE_7syqNv-94" value="po128 layer2" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="190" y="640" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HUjePcvK3pCiE_7syqNv-96" value="&lt;b style=&quot;font-weight: normal&quot; id=&quot;docs-internal-guid-6f17a089-7fff-6139-bf99-ab80f72c0afe&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 8pt; font-family: arial; color: rgb(255, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;WC-NFVW,WC互联，NFVW互联&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 8pt; font-family: arial; color: rgb(255, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;用0.0.101.0/24&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 8pt; font-family: arial; color: rgb(255, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;互联掩码：31&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt&quot;&gt;&lt;span style=&quot;font-size: 8pt; font-family: arial; color: rgb(255, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;SVI300: 101.0/31&lt;/span&gt;&lt;/p&gt;&lt;/b&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="200" y="680" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HUjePcvK3pCiE_7syqNv-97" value="NFV区" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="325" y="740" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
