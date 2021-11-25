@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-25T08:17:00.372Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="O5DKRFByVqd-e3wPjPLx" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-25T08:18:55.571Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Y4b08BEZxlRt65do0SSv" version="15.8.6" type="github">
   <diagram id="9yIABQzzSW3EPo3nlpqk" name="第 1 页">
     <mxGraphModel dx="1278" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -28,9 +28,9 @@
         <mxCell id="Ok2JGVrmFW1sOmzhVr70-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.563;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Ok2JGVrmFW1sOmzhVr70-1" target="Ok2JGVrmFW1sOmzhVr70-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ok2JGVrmFW1sOmzhVr70-16" value="g3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ok2JGVrmFW1sOmzhVr70-12">
+        <mxCell id="Ok2JGVrmFW1sOmzhVr70-16" value="g3&amp;nbsp; .7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ok2JGVrmFW1sOmzhVr70-12">
           <mxGeometry x="-0.6712" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ok2JGVrmFW1sOmzhVr70-1" value="" style="shape=mxgraph.cisco.routers.router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
@@ -39,9 +39,9 @@
         <mxCell id="Ok2JGVrmFW1sOmzhVr70-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.603;entryY=1.053;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Ok2JGVrmFW1sOmzhVr70-2" target="Ok2JGVrmFW1sOmzhVr70-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ok2JGVrmFW1sOmzhVr70-15" value="g2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ok2JGVrmFW1sOmzhVr70-13">
+        <mxCell id="Ok2JGVrmFW1sOmzhVr70-15" value="g2&amp;nbsp; .6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ok2JGVrmFW1sOmzhVr70-13">
           <mxGeometry x="-0.5802" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ok2JGVrmFW1sOmzhVr70-2" value="CSR1612" style="shape=mxgraph.cisco.routers.router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
