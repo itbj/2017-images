@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-25T08:40:41.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="gpV-opMpgcXSZGstAbI8" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-25T08:57:01.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Qt82fwggF_Lu86Mbayx_" version="15.8.6" type="github">
   <diagram id="9yIABQzzSW3EPo3nlpqk" name="第 1 页">
-    <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="692" dy="371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,15 +123,25 @@
         <mxCell id="Ok2JGVrmFW1sOmzhVr70-38" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_network_adapter;" vertex="1" parent="1">
           <mxGeometry x="866.22" y="210" width="86.21" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ok2JGVrmFW1sOmzhVr70-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Ok2JGVrmFW1sOmzhVr70-41" target="Ok2JGVrmFW1sOmzhVr70-47">
+        <mxCell id="Ok2JGVrmFW1sOmzhVr70-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.8555;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Ok2JGVrmFW1sOmzhVr70-41" target="Ok2JGVrmFW1sOmzhVr70-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ok2JGVrmFW1sOmzhVr70-50" value="eth1&lt;br&gt;WAN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ok2JGVrmFW1sOmzhVr70-48">
+        <mxCell id="Ok2JGVrmFW1sOmzhVr70-50" value="&lt;div&gt;eth1 WAN&lt;/div&gt;DHCP" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ok2JGVrmFW1sOmzhVr70-48">
           <mxGeometry x="0.7829" y="-1" relative="1" as="geometry">
-            <mxPoint x="7" y="-27" as="offset" />
+            <mxPoint x="-5" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ok2JGVrmFW1sOmzhVr70-41" value="Meraki" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
+        <mxCell id="Ok2JGVrmFW1sOmzhVr70-83" value="g2&amp;nbsp; VLAN2 .1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="Ok2JGVrmFW1sOmzhVr70-48">
+          <mxGeometry x="-0.7885" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ok2JGVrmFW1sOmzhVr70-84" value="192.168.130.0/24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="Ok2JGVrmFW1sOmzhVr70-48">
+          <mxGeometry x="-0.3325" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ok2JGVrmFW1sOmzhVr70-41" value="" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
           <mxGeometry x="1040" y="225" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ok2JGVrmFW1sOmzhVr70-44" style="edgeStyle=none;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.427;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Ok2JGVrmFW1sOmzhVr70-42" target="Ok2JGVrmFW1sOmzhVr70-43">
@@ -176,10 +186,10 @@
           <mxGeometry x="990" y="346.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ok2JGVrmFW1sOmzhVr70-52" value="NAT" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1031.8899999999999" y="373" width="40" height="20" as="geometry" />
+          <mxGeometry x="1039.9999999999998" y="361.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ok2JGVrmFW1sOmzhVr70-53" value="NAT" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="240" width="40" height="20" as="geometry" />
+        <mxCell id="Ok2JGVrmFW1sOmzhVr70-53" value="Meraki &lt;br&gt;MX64&lt;br&gt;NAT" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="225" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ok2JGVrmFW1sOmzhVr70-54" value="联通路由器&lt;br&gt;NAT" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1080" y="133" width="80" height="30" as="geometry" />
