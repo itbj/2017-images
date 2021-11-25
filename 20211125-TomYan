@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-25T06:24:46.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="xppPrjzp7VafWUdFO6nU" version="15.8.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-25T06:26:21.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="LpdYLxXscco35PZsDrKy" version="15.8.6" type="github" pages="2">
   <diagram id="e32_tFTXpkKCN1R5wqYX" name="第 1 页">
     <mxGraphModel dx="865" dy="463" grid="1" gridSize="10" guides="0" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -912,6 +912,12 @@
         </mxCell>
         <mxCell id="HUjePcvK3pCiE_7syqNv-80" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="620.27" y="620" width="9.73" height="31.79" as="geometry" />
+        </mxCell>
+        <mxCell id="HUjePcvK3pCiE_7syqNv-81" value="Keep-alive" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="600" y="580" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HUjePcvK3pCiE_7syqNv-86" value="pee-link" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="610" y="650" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
